@@ -8,3 +8,4 @@ node_modules/
 *.log
 coverage/
 .cache/
+.pytest_cache/
